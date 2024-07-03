@@ -31,7 +31,7 @@ const CurrencyCard = () => {
                 />
               </CardHeader>
               <CardContent
-                className="sm:text-sm font-[400] text-[#8D8D8D]"
+                className="sm:text-sm text-[14px] font-[400] text-[#8D8D8D]"
                 dangerouslySetInnerHTML={{ __html: text }}
               />
             </Card>

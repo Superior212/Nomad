@@ -40,7 +40,7 @@ const Hero = () => {
             className="dm-sans text-white-400 text-[40px] sm:text-[80px] font-[700] text-center my-3">
             Bridging the gap <br className="hidden sm:block" /> between{" "}
             <br className="block sm:hidden" />
-            blockchain and <br className="hidden sm:block" /> traditional
+            blockchain and <br className="hidden sm:block" /> traditional{" "}
             <br className="block sm:hidden" />
             finance
           </h1>
